@@ -1,6 +1,6 @@
-### Huriel Ferreira Lopes
+# Huriel Ferreira Lopes
 
-<hr>
+---
 
 Olá! Sou um desenvolvedor fullstack. Comecei com o desenvolvimento web no início de 2020. <br>
 Tenho maior afinidade com tecnologias como: PHP, JavaScript e CSS3. <br>
