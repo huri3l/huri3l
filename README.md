@@ -1,7 +1,11 @@
-# Huriel Ferreira Lopes
+<h1 align="center"> Huriel Ferreira Lopes </h1>
+<p align="center"></p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Huriel%20Lopes-323232?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/huriel-lopes/)](https://www.linkedin.com/in/huriel-lopes/) 
-[![Gmail Badge](https://img.shields.io/badge/-huriellopesacc@gmail.com-323232?style=flat-square&logo=Gmail&logoColor=white&link=mailto:huriellopesacc@gmail.com)](mailto:huriellopesacc@gmail.com)
+<p align="center">
+<a href="https://www.linkedin.com/in/huriel-lopes/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="huri3l" height="20" width="20" /></a>
+<a href="https://www.facebook.com/huriel.lopes.1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="huri3l" height="20" width="20" /></a>
+<a href="https://www.instagram.com/_huri3l/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="huri3l" height="20" width="20" /></a>
+</p>
 
 Olá! Sou um desenvolvedor fullstack. Comecei com o desenvolvimento web no início de 2020. <br>
 Tenho maior afinidade com tecnologias como: PHP, JavaScript e CSS3. <br>
