@@ -1,16 +1,14 @@
-### Hi there 👋
+### Huriel Ferreira Lopes
 
-<!--
-**huri3l/huri3l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+Olá! Sou um desenvolvedor fullstack. Comecei com o desenvolvimento web no início de 2020. <br>
+Tenho maior afinidade com tecnologias como: PHP, JavaScript e CSS3. <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+Cada dia que se passa, procuro aprender mais sobre as tecnologias em alta no mercado e estou estudando para desenvolver aplicações com Node, React e React Native.
+
+<hr>
+
+O equlíbrio é tudo! Aprenda e use-o com sabedoria, caso contrário, a vida irá te puxar para baixo quantas vezes for necessário para manter o equilíbrio de tudo. Haja com controle, e não desista daquilo que pretende fazer seu.
