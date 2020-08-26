@@ -11,7 +11,8 @@ Olá! Sou um desenvolvedor fullstack. Comecei com o desenvolvimento web no iníc
 Atualmente meu estudo está focado em Node.js e React.js.
 
 ### Últimos Vídeos do Canal
-<!-- YOUTUBE:START--> 
+<!-- YOUTUBE:START-->
+- [Header Responsivo com CSS Flexbox e JavaScript - O Poder da Manipulação da DOM](https://www.youtube.com/watch?v=k1zsgsNeMWE)
 <!-- YOUTUBE:END--> 
 
 > O equlíbrio é tudo! Use-o com sabedoria, caso contrário, a vida irá te puxar para baixo quantas vezes for necessário para lhe mostrar a importância disso. Aja com controle, e não desista daquilo que pretende fazer seu.
