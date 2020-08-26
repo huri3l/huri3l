@@ -10,7 +10,7 @@ Olá! Sou um desenvolvedor fullstack. Comecei com o desenvolvimento web no iníc
 
 Atualmente meu estudo está focado em Node.js e React.js.
 
-### Últimos Vídeos do Canal
+### 📺 Vídeos Mais Recentes do YouTube
 <!-- YOUTUBE:START-->
 - [Header Responsivo com CSS Flexbox e JavaScript - O Poder da Manipulação da DOM](https://www.youtube.com/watch?v=k1zsgsNeMWE)
 <!-- YOUTUBE:END--> 
