@@ -1,17 +1,17 @@
-name: Últimos Vídeos no YouTube
-on: 
+name: Latest YouTube Videos
+on:
   schedule:
-  # Procura de hora em hora
-  - cron: '0 * * * *'
+    # Runs every hour
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
   update-readme-with-youtube:
-  name: Atualizar esse respositório com os últimos vídeos do YouTube
-  runs-on: ubuntu-latest
-  steps:
-    - uses: actions/checkout@v2
-    - uses: gautamkrishnar/blog-post-workflow@master
-      with:
-        comment_tag_name: "YOUTUBE"
-        feed_list: "https://www.youtube.com/feeds/vidoes.xml?channel_id=UC5ldcWDRG-81eTwhzMvkQPQ"
+    name: Update this repo's README with latest videos from YouTube
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "YOUTUBE"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC5ldcWDRG-81eTwhzMvkQPQ"
