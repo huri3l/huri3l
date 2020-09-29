@@ -6,9 +6,9 @@
 <a href="https://www.instagram.com/_huri3l/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="huri3l" height="20" width="20" /></a>
 </p>
 
-#### Olá! Sou um desenvolvedor fullstack. Comecei com o desenvolvimento web no início de 2020.
+#### Olá! Sou um estudante de desenvolvimento web fullstack. Comecei com meus estudos no início de 2020.
 
-* Atualmente meu estudo está focado em Node.js e React.js;
+* Atualmente meu estudo está focado em Node.js, React.js e UI/UX Design;
 * Faço vídeos no YouTube de conteúdos que já domino;
 * Procuro contribuir com a comunidade de desenvolvedores
 
