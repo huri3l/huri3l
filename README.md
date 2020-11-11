@@ -14,7 +14,7 @@
 
 ### 📺 Vídeos Mais Recentes do YouTube
 <!-- YOUTUBE:START-->
-- [Header Responsivo com CSS Flexbox e JavaScript - O Poder da Manipulação da DOM](https://www.youtube.com/watch?v=k1zsgsNeMWE)
+- [Header Responsivo com CSS Flexbox e JavaScript](https://www.youtube.com/watch?v=k1zsgsNeMWE)
 <!-- YOUTUBE:END--> 
 
 > O equilíbrio é tudo! Use-o com sabedoria, caso contrário, a vida irá te puxar para baixo quantas vezes for necessário para lhe mostrar a importância disso. Aja com controle, e não desista daquilo que pretende fazer seu.
