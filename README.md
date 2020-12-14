@@ -14,6 +14,7 @@
 
 ### 📺 Vídeos Mais Recentes do YouTube
 <!-- YOUTUBE:START-->
+- [Ramificações - Git Direto ao Ponto #2](https://www.youtube.com/watch?v=22fFWoHKL7o)
 - [Introdução ao Git - Git Direto ao Ponto #1](https://www.youtube.com/watch?v=He9_M-tXkyg)
 - [Header Responsivo com CSS Flexbox e JavaScript](https://www.youtube.com/watch?v=k1zsgsNeMWE)
 <!-- YOUTUBE:END--> 
