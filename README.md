@@ -14,6 +14,7 @@
 
 ### 📺 Vídeos Mais Recentes do YouTube
 <!-- YOUTUBE:START-->
+- [Utilizando Git com Github - Git Direto ao Ponto #4](https://www.youtube.com/watch?v=jsmkMnNvE_o)
 - [Deletar, renomear e mover arquivos e comandos avançados - Git Direto ao Ponto #3](https://www.youtube.com/watch?v=SCOnIXJBwkg)
 - [Ramificações - Git Direto ao Ponto #2](https://www.youtube.com/watch?v=22fFWoHKL7o)
 - [Introdução ao Git - Git Direto ao Ponto #1](https://www.youtube.com/watch?v=He9_M-tXkyg)
