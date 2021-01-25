@@ -6,13 +6,13 @@
 [![Reddit Badge](https://img.shields.io/badge/-Reddit-373737?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/huri3l) 
 
 #### Olá!
-**Sou apaixonado por programação e ambicioso para aprender coisas novas**
+**Sou apaixonado por programação e ambicioso para aprender coisas novas.**
 
 ⏱ Atualmente estou estudando React.js, UI/UX e Selenium em Python;
 
 🎬 Faço vídeos no [YouTube](https://www.youtube.com/channel/UC5ldcWDRG-81eTwhzMvkQPQ) a fim de compartilhar conhecimento;
 
-🧶 Iniciei na programação no começo de 2020 por hobbie, e hoje, todo trabalho na área me parece divertido de se aprender.
+🧶 Iniciei na programação no começo de 2020 por hobbie, e hoje, tudo relacionado à essa área me parece divertido de se aprender.
 
 **Skills:**
 
