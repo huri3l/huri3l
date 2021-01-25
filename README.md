@@ -1,9 +1,24 @@
-<h1 align="center"> Huriel Ferreira Lopes </h1>
-<p align="center"></p>
+<h1 align="center">Huriel Ferreira Lopes</h1>
+<p align="center" />
 
 <p align="center">
-<a href="https://www.linkedin.com/in/huriel-lopes/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="huri3l" height="20" width="20" /></a>
-<a href="https://www.instagram.com/_huri3l/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="huri3l" height="20" width="20" /></a>
+
+  <a href="https://www.instagram.com/huri3l/" target="blank">
+    <img align="center" width="25px" src="assets/icons/instagram.svg" alt="Instagram de Huriel" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/huriel-lopes/" target="blank">
+    <img align="center" width="25px" src="assets/icons/linkedin.svg" alt="LinkedIn de Huriel" />
+  </a>
+
+  <a href="https://www.reddit.com/user/huri3l" target="blank">
+    <img align="center" width="25px" src="assets/icons/reddit.svg" alt="Reddit de Huriel" />
+  </a>
+
+  <a href="https://www.youtube.com/channel/UC5ldcWDRG-81eTwhzMvkQPQ" target="blank">
+    <img align="center" width="25px" src="assets/icons/youtube.svg" alt="Canal no YouTube de Huriel" />
+  </a>
+
 </p>
 
 #### Olá! Sou um estudante de desenvolvimento web fullstack. Comecei com meus estudos no início de 2020.
