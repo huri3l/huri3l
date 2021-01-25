@@ -1,39 +1,25 @@
-<h1 align="center">Huriel Ferreira Lopes</h1>
-<p align="center" />
+# Huriel Ferreira Lopes
 
-<p align="center">
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-373737?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5ldcWDRG-81eTwhzMvkQPQ) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-373737?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/huri3l/) 
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-373737?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huriel-lopes/) 
+[![Reddit Badge](https://img.shields.io/badge/-Reddit-373737?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/huri3l) 
 
-  <a href="https://www.instagram.com/huri3l/" target="blank">
-    <img align="center" width="25px" src="assets/icons/instagram.svg" alt="Instagram de Huriel" />
-  </a>
+#### Olá!
+**Sou apaixonado por programação e ambicioso para aprender coisas novas**
 
-  <a href="https://www.linkedin.com/in/huriel-lopes/" target="blank">
-    <img align="center" width="25px" src="assets/icons/linkedin.svg" alt="LinkedIn de Huriel" />
-  </a>
+⏱ Atualmente estou estudando React.js, UI/UX e Selenium em Python;
 
-  <a href="https://www.reddit.com/user/huri3l" target="blank">
-    <img align="center" width="25px" src="assets/icons/reddit.svg" alt="Reddit de Huriel" />
-  </a>
+🎬 Faço vídeos no [YouTube](https://www.youtube.com/channel/UC5ldcWDRG-81eTwhzMvkQPQ) a fim de compartilhar conhecimento;
 
-  <a href="https://www.youtube.com/channel/UC5ldcWDRG-81eTwhzMvkQPQ" target="blank">
-    <img align="center" width="25px" src="assets/icons/youtube.svg" alt="Canal no YouTube de Huriel" />
-  </a>
+🧶 Iniciei na programação no começo de 2020 por hobbie, e hoje, todo trabalho na área me parece divertido de se aprender.
 
-</p>
+**Skills:**
 
-#### Olá! Sou um estudante de desenvolvimento web fullstack. Comecei com meus estudos no início de 2020.
-
-* Atualmente meu estudo está focado em Node.js, React.js e UI/UX Design;
-* Faço vídeos no YouTube de conteúdos que já domino;
-* Procuro contribuir com a comunidade de desenvolvedores
-
-### 📺 Vídeos Mais Recentes do YouTube
-<!-- YOUTUBE:START-->
-- [Utilizando Git com Github - Git Direto ao Ponto #4](https://www.youtube.com/watch?v=jsmkMnNvE_o)
-- [Deletar, renomear e mover arquivos e comandos avançados - Git Direto ao Ponto #3](https://www.youtube.com/watch?v=SCOnIXJBwkg)
-- [Ramificações - Git Direto ao Ponto #2](https://www.youtube.com/watch?v=22fFWoHKL7o)
-- [Introdução ao Git - Git Direto ao Ponto #1](https://www.youtube.com/watch?v=He9_M-tXkyg)
-- [Header Responsivo com CSS Flexbox e JavaScript](https://www.youtube.com/watch?v=k1zsgsNeMWE)
-<!-- YOUTUBE:END--> 
-
-> O equilíbrio é tudo! Use-o com sabedoria, caso contrário, a vida irá te puxar para baixo quantas vezes for necessário para lhe mostrar a importância disso. Aja com controle, e não desista daquilo que pretende fazer seu.
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
