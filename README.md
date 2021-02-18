@@ -8,7 +8,7 @@
 #### Olá!
 **Sou apaixonado por programação e ambicioso para aprender coisas novas.**
 
-⏱ Atualmente estou estudando React.js, UI/UX e Selenium em Python;
+⏱ Atualmente estou estudando React.js, UI/UX, Selenium (Python) e Docker;
 
 🎬 Faço vídeos no [YouTube](https://www.youtube.com/channel/UC5ldcWDRG-81eTwhzMvkQPQ) a fim de compartilhar conhecimento;
 
