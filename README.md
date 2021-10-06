@@ -6,9 +6,9 @@
 [![Reddit Badge](https://img.shields.io/badge/-Reddit-373737?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/huri3l) 
 
 #### Olá!
-**Sou apaixonado por programação e ambicioso para aprender coisas novas.**
+**Sou Desenvolvedor Frontend, apaixonado por programação e ambicioso para aprender coisas novas.**
 
-⏱ Atualmente estou estudando React.js, Node.js, Typescript, Selenium (Python) e Docker;
+⏱ Atualmente estou estudando React.js, NextJS, Node.js, Typescript;
 
 🎬 Faço vídeos no [YouTube](https://www.youtube.com/channel/UC5ldcWDRG-81eTwhzMvkQPQ) a fim de compartilhar conhecimento;
 
