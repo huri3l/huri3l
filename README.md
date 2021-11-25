@@ -1,25 +1,44 @@
-# Huriel Ferreira Lopes
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/huri3l/358e1089dadc78e4e9ed1965a497becb/raw/d7c9093d8939f1ca3a5a7e3386625e3ce20ed46b/githubbanner.svg"/>
+
+<h1 align="left">Hey, I'm Huriel Lopes! 🤙</h1>
 
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-373737?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5ldcWDRG-81eTwhzMvkQPQ) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-373737?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/huri3l/) 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-373737?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huriel-lopes/) 
-[![Reddit Badge](https://img.shields.io/badge/-Reddit-373737?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/huri3l) 
 
-#### Olá!
-**Sou Desenvolvedor Frontend, apaixonado por programação e ambicioso para aprender coisas novas.**
+**I'm a Frontend Web Developer learning how to code better everyday.**
 
-⏱ Atualmente estou estudando React.js, NextJS, Node.js, Typescript;
+⏱ Currently learning React.js, Next.js, Node.js, Typescript and several other tools.
 
-🎬 Faço vídeos no [YouTube](https://www.youtube.com/channel/UC5ldcWDRG-81eTwhzMvkQPQ) a fim de compartilhar conhecimento;
+🎬 I teach programming in Portuguese on my [YouTube](https://www.youtube.com/channel/UC5ldcWDRG-81eTwhzMvkQPQ) channel, to help others in their career.
 
-🧶 Iniciei na programação no começo de 2020 por hobbie, e hoje, tudo relacionado à essa área me parece divertido de se aprender.
+🧶 Coding since 2020 as a hobby.
 
-**Skills:**
+#### Skills
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Javascript icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> </a>
+<a href="https://www.typescriptlang.org" target="_blank"> <img align="center" alt="Typescript icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"> </a>
+<a href="https://pt-br.reactjs.org" target="_blank"> <img align="center" alt="React icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> </a>
+<a href="https://nextjs.org/" target="_blank"> <img align="center" alt="NextJS icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"> </a>
+<a href="https://redux.js.org/" target="_blank"> <img align="center" alt="Redux icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"> </a>
+<a href="https://jestjs.io/" target="_blank"> <img align="center" alt="Jest icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"> </a>
+<a href="https://sass-lang.com/" target="_blank"> <img align="center" alt="SASS icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"> </a>
+<a href="https://mui.com/" target="_blank"> <img align="center" alt="MUI (Material UI) icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="center" alt="HTML5 icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="center" alt="CSS3 icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"> </a>
+<a href="https://www.markdownguide.org/getting-started/" target="_blank"> <img align="center" alt="Markdown icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg"> </a>
+
+<a href="https://nodejs.org/en/" target="_blank"> <img align="center" alt="NodeJS icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> </a>
+<a href="https://firebase.google.com/?hl=pt" target="_blank"> <img align="center" alt="Firebase icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img align="center" alt="MongoDB icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg"> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img align="center" alt="MySQL icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"> </a>
+<a href="https://www.postgresql.org/" target="_blank"> <img align="center" alt="PostgreSQL icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"> </a>
+
+<a href="https://www.linux.org/pages/download/" target="_blank"> <img align="center" alt="Linux icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"> </a>
+<a href="https://git-scm.com/" target="_blank"> <img align="center" alt="Git icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> </a>
+<a href="https://github.com/" target="_blank"> <img align="center" alt="GitHub icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"> </a>
+<a href="https://www.figma.com/" target="_blank"> <img align="center" alt="Figma icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> </a>
+<a href="https://about.gitlab.com/" target="_blank"> <img align="center" alt="Bitbucket icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg"> </a>
+<a href="https://bitbucket.org/" target="_blank"> <img align="center" alt="Gitlab icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"> </a>
+<a href="https://www.atlassian.com/br/software/jira" target="_blank"> <img align="center" alt="Jira icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg"> </a>
+<a href="https://yarnpkg.com/" target="_blank"> <img align="center" alt="Yarn icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg"> </a>
