@@ -45,9 +45,10 @@
 
 <hr/>
 
-<p>
-📧 <b>Email:</b> <a href="mailto:huriel-lopes@outlook.com">huriel-lopes@outlook.com</a><br/>
-🌍 <b>Open to opportunities</b>
-</p>
-
+<div align="center">
+  <p>
+    🌍 <b>Open to opportunities</b><br/>
+    <a href="mailto:huriel-lopes@outlook.com">huriel-lopes@outlook.com</a>
+  </p>
+</div>
 
