@@ -1,12 +1,53 @@
-<h1 align="left">Huriel Lopes</h1>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:303446,100:0D1118&text=Huriel%20Lopes&fontColor=FFFFFF&textBg=false&animation=twinkling&desc=Software%20Engineer&descAlignY=65"
+    alt="Huriel Lopes, Softwware Engineer"
+  />
+</p>
 
-Front-end Engineer
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&duration=1500&pause=10000&color=F7F7F7&center=true&repeat=false&width=435&lines=Shipping+high-quality+software%2C+end+to+end+%F0%9F%9A%80"
+    alt="Shipping high quality software, end-to-end"
+  />
+</p>
 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-0047AB?logo=nextdotjs&logoColor=white)](https://hportfolio-eta.vercel.app/en-us) 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0047AB?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huriel-lopes/) 
-[![Email Badge](https://img.shields.io/badge/-0047AB?logo=microsoftoutlook&logoColor=white&label=huriel-lopes%40outlook.com&labelColor=0047AB&link=mailto%3Ahuriel-lopes%40outlook.com)](mailto:huriel-lopes@outlook.com)
+<p align="center">
+  <a href="https://www.huriel.com.br" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-303446?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-Experienced in JavaScript, TypeScript, React, React Native, and other related tools.
+  <a href="https://www.linkedin.com/in/huri3l/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Linkedin-303446?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-Feel free to check my repositories and to reach me out through the links above.
+  <a href="mailto:huriel-lopes@outlook.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-303446?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>  
+</p>
+
+<hr/>
+
+<h2>🧠 About me</h2>
+
+<ul>
+  <li><b>Role:</b> Software Engineer / Frontend-leaning Full Stack.</li>
+  <li><b>Profile:</b> Builds scalable products by connecting <b>frontend architecture</b>, <b>performance</b>, and <b>user experience</b>.</li>
+  <li><b>Expertise:</b> Modern web platforms, micro-frontends, embeds, offline-first apps, and high-traffic interfaces.</li>
+  <li><b>Frontend:</b> React, Next.js, React Native, TypeScript, state management, data fetching, and design systems.</li>
+  <li><b>Backend & Integration:</b> BFFs, APIs, authentication flows, and frontend–backend integration using Node.js/NestJS.</li>
+  <li><b>Delivery:</b> Strong experience with CI/CD, pipelines, automations, and production-ready software.</li>
+</ul>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,sass,nodejs,nestjs,git,aws,azure,docker" />
+</div>
+
+<hr/>
+
+<p>
+📧 <b>Email:</b> <a href="mailto:huriel-lopes@outlook.com">huriel-lopes@outlook.com</a><br/>
+🌍 <b>Open to opportunities</b>
+</p>
+
 
