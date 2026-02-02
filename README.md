@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:303446,100:0D1118&text=Huriel%20Lopes&fontColor=FFFFFF&textBg=false&animation=twinkling&desc=Software%20Engineer&descAlignY=65"
+    src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:303446,100:0D1118&text=Huriel%20Lopes&fontColor=FFFFFF&textBg=false&animation=twinkling&desc=Software%20Engineer&descAlignY=75"
     alt="Huriel Lopes, Softwware Engineer"
   />
 </p>
